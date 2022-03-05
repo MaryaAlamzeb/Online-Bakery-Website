@@ -1,5 +1,5 @@
 # Online-Bakery-Website
-A bakery/shop management system in HTML, CSS, PHP and JS
+A bakery/shop management system in HTML, CSS, PHP and JS and mysql
 This project contains 2 user modules an Admin and a customer module
 Admin can Add/update/delete users, products, orders.
 Customer can view products, add to cart products and make an order.
